@@ -1,0 +1,7 @@
+# Filter board, bench build
+R1  4k7            # input pull-up
+R2  10k
+R3  2.2 kΩ
+R4  1M5
+R5  470R
+R6  1k25           # off the E24 grid, gets a warning
